@@ -1,1 +1,1 @@
-fave color: color
+fave color: blue
